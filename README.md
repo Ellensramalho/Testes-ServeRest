@@ -1,8 +1,9 @@
- Testes de API com Cypress – ServeRest
+Testes de API com Cypress – ServeRest
 
 Projeto de testes automatizados utilizando Cypress para validar endpoints da API pública ServeRest.
 
-**Tecnologias**
+💻 **Tecnologias**
+
 Cypress
 
 Node.js
@@ -10,18 +11,18 @@ Node.js
 JavaScript
 
 
-**Testes incluídos**
+✔️ **Testes incluídos**
 
-Login e obtenção de token
+Login e obtenção de token.
 
-Criação de usuário
+Criação de usuário.
 
-Listagem de produtos
+Listagem de produtos.
 
-Criação de produto autenticado
+Criação de produto autenticado.
 
 
-**Instalar o Cypress**
+📦 **Instalar o Cypress**
 
 npm install
 
