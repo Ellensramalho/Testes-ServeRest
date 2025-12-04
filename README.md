@@ -22,8 +22,10 @@ Criação de produto autenticado
 
 
 **Instalar o Cypress**
+
 npm install
 
 Execute o Cypress:
+
 npx cypress open
 
