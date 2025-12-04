@@ -2,14 +2,15 @@
 
 Projeto de testes automatizados utilizando Cypress para validar endpoints da API pública ServeRest.
 
-🚀 Tecnologias
+**Tecnologias**
 Cypress
 
 Node.js
 
 JavaScript
 
-✔ Testes incluídos
+
+**Testes incluídos**
 
 Login e obtenção de token
 
@@ -19,18 +20,10 @@ Listagem de produtos
 
 Criação de produto autenticado
 
-▶ Como executar
 
-Instale as dependências:
-
+**Instalar o Cypress**
 npm install
 
-
 Execute o Cypress:
-
 npx cypress open
 
-
-Ou em modo headless:
-
-npx cypress run
